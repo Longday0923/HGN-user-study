@@ -6,6 +6,8 @@ file3 = './lab_students/lab_stu_format_A.jsonl'
 file4 = './lab_students/lab_stu_format_B.jsonl'
 file_me = 'thr-0.02_ans-correct_admin_pruned_chosen.jsonl'
 
+check_annotator = True
+
 
 def triple_in_graph(triple: list, graph: list):
     for ref_triple in graph:
@@ -84,13 +86,25 @@ def main():
                 final_sheet['final_base_avg'] += every_sent['base_avg']
                 final_sheet['final_our_percent'] += every_sent['our_percent']
                 final_sheet['final_our_avg'] += every_sent['our_avg']
+            if check_annotator:
+                final_sheet['final_base_percent'] = round(final_sheet['final_base_percent'] / len(sheet_me) * 100, 2)
+                final_sheet['final_base_avg'] = round(final_sheet['final_base_avg'] / len(sheet_me), 2)
+                final_sheet['final_our_percent'] = round(final_sheet['final_our_percent'] / len(sheet_me) * 100, 2)
+                final_sheet['final_our_avg'] = round(final_sheet['final_our_avg'] / len(sheet_me), 2)
+                print('Annotator_check:\t', '#' * 90, '\n', final_sheet)
+                final_sheet['final_base_percent'] = 0
+                final_sheet['final_base_avg'] = 0
+                final_sheet['final_our_percent'] = 0
+                final_sheet['final_our_avg'] = 0
+
         final_sheet['final_base_percent'] = round(
             final_sheet['final_base_percent'] / (len(sheet_matric) * len(sheet_me)) * 100, 2)
         final_sheet['final_base_avg'] = round(final_sheet['final_base_avg'] / (len(sheet_matric) * len(sheet_me)), 2)
         final_sheet['final_our_percent'] = round(
             final_sheet['final_our_percent'] / (len(sheet_matric) * len(sheet_me)) * 100, 2)
         final_sheet['final_our_avg'] = round(final_sheet['final_our_avg'] / (len(sheet_matric) * len(sheet_me)), 2)
-        print(final_sheet)
+        if not check_annotator:
+            print(final_sheet)
 
 
 if __name__ == '__main__':
