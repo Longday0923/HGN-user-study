@@ -1,0 +1,1212 @@
+{
+    "index":7,
+    "question":"In what Spanish speaking North American country can you get a great cup of coffee?",
+    "correct_answer":"mexico",
+    "triples":[
+        [
+            "country",
+            "mexico",
+            "is a",
+            "quality:0, usefulness:0"
+        ],
+        [
+            "spanish spoken",
+            "mexico",
+            "is located at",
+            "quality:0, usefulness:0"
+        ],
+        [
+            "coffee",
+            "mexico",
+            "is located at",
+            "quality:0, usefulness:0"
+        ],
+        [
+            "spanish",
+            "mexico",
+            "is located at",
+            "quality:0, usefulness:0"
+        ]
+    ]
+}
+{
+    "index":9,
+    "question":"Reading newspaper one of many ways to practice your what?",
+    "correct_answer":"literacy",
+    "triples":[
+        [
+            "reading newspaper",
+            "literacy",
+            "has sub event",
+            "quality:0, usefulness:0"
+        ],
+        [
+            "read",
+            "literacy",
+            "related to",
+            "quality:0, usefulness:0"
+        ],
+        [
+            "reading",
+            "literacy",
+            "related to",
+            "quality:0, usefulness:0"
+        ],
+        [
+            "read newspaper",
+            "literacy",
+            "requires",
+            "quality:0, usefulness:0"
+        ]
+    ]
+}
+{
+    "index":16,
+    "question":"What are you waiting alongside with when you're in a reception area?",
+    "correct_answer":"people",
+    "triples":[
+        [
+            "people",
+            "reception area",
+            "is located at",
+            "quality:0, usefulness:0"
+        ],
+        [
+            "people",
+            "reception",
+            "is located at",
+            "quality:0, usefulness:0"
+        ],
+        [
+            "people",
+            "area",
+            "is located at",
+            "quality:0, usefulness:0"
+        ],
+        [
+            "area",
+            "people",
+            "is located at",
+            "quality:0, usefulness:0"
+        ],
+        [
+            "waiting",
+            "people",
+            "is used for",
+            "quality:0, usefulness:0"
+        ],
+        [
+            "people",
+            "waiting",
+            "has property",
+            "quality:0, usefulness:0"
+        ],
+        [
+            "reception area",
+            "people",
+            "is located at",
+            "quality:0, usefulness:0"
+        ],
+        [
+            "wait",
+            "people",
+            "is motivated by",
+            "quality:0, usefulness:0"
+        ],
+        [
+            "reception",
+            "people",
+            "is located at",
+            "quality:0, usefulness:0"
+        ],
+        [
+            "alongside",
+            "people",
+            "is type of",
+            "quality:0, usefulness:0"
+        ],
+        [
+            "people",
+            "wait",
+            "is capable of",
+            "quality:0, usefulness:0"
+        ],
+        [
+            "people",
+            "alongside",
+            "is capable of",
+            "quality:0, usefulness:0"
+        ]
+    ]
+}
+{
+    "index":49,
+    "question":"Because John was first violin, he had to bring something important to work ever day. What did he need to bring to work?",
+    "correct_answer":"violin case",
+    "triples":[
+        [
+            "first violin",
+            "violin case",
+            "at location",
+            "quality:0, usefulness:0"
+        ],
+        [
+            "first violin",
+            "violin",
+            "related to",
+            "quality:0, usefulness:0"
+        ],
+        [
+            "work",
+            "case",
+            "related to",
+            "quality:0, usefulness:0"
+        ]
+    ]
+}
+{
+    "index":50,
+    "question":"What is a place that usually does not have an elevator and that sometimes has a telephone book?",
+    "correct_answer":"house",
+    "triples":[
+        [
+            "book",
+            "house",
+            "at location",
+            "quality:0, usefulness:0"
+        ],
+        [
+            "telephone book",
+            "house",
+            "at location",
+            "quality:0, usefulness:0"
+        ],
+        [
+            "place",
+            "house",
+            "is a",
+            "quality:0, usefulness:0"
+        ],
+        [
+            "usually",
+            "house",
+            "related to",
+            "quality:0, usefulness:0"
+        ]
+    ]
+}
+{
+    "index":52,
+    "question":"Where can a human find clothes that aren't pants?",
+    "correct_answer":"dress shop",
+    "triples":[
+        [
+            "clothes",
+            "shop",
+            "at location",
+            "quality:0, usefulness:0"
+        ],
+        [
+            "human",
+            "dress shop",
+            "at location",
+            "quality:0, usefulness:0"
+        ],
+        [
+            "human",
+            "shop",
+            "at location",
+            "quality:0, usefulness:0"
+        ],
+        [
+            "pants",
+            "dress",
+            "antonym",
+            "quality:0, usefulness:0"
+        ],
+        [
+            "clothe",
+            "dress",
+            "related to",
+            "quality:0, usefulness:0"
+        ],
+        [
+            "clothes",
+            "dress",
+            "used for",
+            "quality:0, usefulness:0"
+        ]
+    ]
+}
+{
+    "index":66,
+    "question":"What is a place that has a bench nestled in trees?",
+    "correct_answer":"state park",
+    "triples":[
+        [
+            "bench",
+            "state park",
+            "at location",
+            "quality:0, usefulness:0"
+        ],
+        [
+            "tree",
+            "state park",
+            "at location",
+            "quality:0, usefulness:0"
+        ],
+        [
+            "trees",
+            "state park",
+            "at location",
+            "quality:0, usefulness:0"
+        ],
+        [
+            "bench",
+            "park",
+            "related to",
+            "quality:0, usefulness:0"
+        ],
+        [
+            "place",
+            "park",
+            "related to",
+            "quality:0, usefulness:0"
+        ]
+    ]
+}
+{
+    "index":69,
+    "question":"Where would you find a single shower curtain being used?",
+    "correct_answer":"bathtub",
+    "triples":[
+        [
+            "shower curtain",
+            "bathtub",
+            "at location",
+            "quality:0, usefulness:0"
+        ],
+        [
+            "shower",
+            "bathtub",
+            "related to",
+            "quality:0, usefulness:0"
+        ]
+    ]
+}
+{
+    "index":108,
+    "question":"Seafood restaurants are used to draw tourists where?",
+    "correct_answer":"coastal cities",
+    "triples":[
+        [
+            "restaurant",
+            "city",
+            "at location",
+            "quality:0, usefulness:0"
+        ],
+        [
+            "seafood restaurant",
+            "city",
+            "at location",
+            "quality:0, usefulness:0"
+        ],
+        [
+            "seafood restaurant",
+            "coastal cities",
+            "at location",
+            "quality:0, usefulness:0"
+        ],
+        [
+            "tourist",
+            "city",
+            "related to",
+            "quality:0, usefulness:0"
+        ]
+    ]
+}
+{
+    "index":120,
+    "question":"Why would a person like to have a large house?",
+    "correct_answer":"lots of space",
+    "triples":[
+        [
+            "house",
+            "lot",
+            "related to",
+            "quality:0, usefulness:0"
+        ],
+        [
+            "house",
+            "space",
+            "related to",
+            "quality:0, usefulness:0"
+        ],
+        [
+            "large",
+            "lot",
+            "related to",
+            "quality:0, usefulness:0"
+        ],
+        [
+            "space",
+            "large house",
+            "is located at",
+            "quality:0, usefulness:0"
+        ]
+    ]
+}
+{
+    "index":125,
+    "question":"Colorful anemone look somewhat like what object you find on window sills?",
+    "correct_answer":"flower bed",
+    "triples":[
+        [
+            "anemone",
+            "flower bed",
+            "at location",
+            "quality:0, usefulness:0"
+        ],
+        [
+            "anemone",
+            "flower",
+            "is a",
+            "quality:0, usefulness:0"
+        ],
+        [
+            "colorful",
+            "flower",
+            "related to",
+            "quality:0, usefulness:0"
+        ],
+        [
+            "like",
+            "bed",
+            "related to",
+            "quality:0, usefulness:0"
+        ]
+    ]
+}
+{
+    "index":138,
+    "question":"What does someone typically feel when applying for a job?",
+    "correct_answer":"anxiety and fear",
+    "triples":[
+        [
+            "feel",
+            "fear",
+            "related to",
+            "quality:0, usefulness:0"
+        ],
+        [
+            "job",
+            "anxiety and fear",
+            "causes",
+            "quality:0, usefulness:0"
+        ],
+        [
+            "job",
+            "fear",
+            "causes",
+            "quality:0, usefulness:0"
+        ],
+        [
+            "anxiety and fear",
+            "job",
+            "is located at",
+            "quality:0, usefulness:0"
+        ],
+        [
+            "fear",
+            "job",
+            "is located at",
+            "quality:0, usefulness:0"
+        ],
+        [
+            "job",
+            "anxiety",
+            "causes",
+            "quality:0, usefulness:0"
+        ],
+        [
+            "applying",
+            "anxiety and fear",
+            "causes",
+            "quality:0, usefulness:0"
+        ],
+        [
+            "applying",
+            "fear",
+            "causes",
+            "quality:0, usefulness:0"
+        ],
+        [
+            "anxiety",
+            "job",
+            "is located at",
+            "quality:0, usefulness:0"
+        ],
+        [
+            "applying",
+            "anxiety",
+            "causes",
+            "quality:0, usefulness:0"
+        ],
+        [
+            "fear",
+            "applying",
+            "is subevent of",
+            "quality:0, usefulness:0"
+        ],
+        [
+            "anxiety and fear",
+            "applying",
+            "is subevent of",
+            "quality:0, usefulness:0"
+        ],
+        [
+            "apply",
+            "anxiety and fear",
+            "is motivated by",
+            "quality:0, usefulness:0"
+        ],
+        [
+            "typically",
+            "anxiety and fear",
+            "has",
+            "quality:0, usefulness:0"
+        ],
+        [
+            "apply",
+            "anxiety",
+            "is motivated by",
+            "quality:0, usefulness:0"
+        ],
+        [
+            "fear",
+            "typically",
+            "is type of",
+            "quality:0, usefulness:0"
+        ]
+    ]
+}
+{
+    "index":246,
+    "question":"What is a treat that you dog will enjoy?",
+    "correct_answer":"bone",
+    "triples":[
+        [
+            "dog",
+            "bone",
+            "related to",
+            "quality:0, usefulness:0"
+        ],
+        [
+            "treat",
+            "bone",
+            "related to",
+            "quality:0, usefulness:0"
+        ],
+        [
+            "bone",
+            "enjoy",
+            "is used for",
+            "quality:0, usefulness:0"
+        ]
+    ]
+}
+{
+    "index":276,
+    "question":"Printing on a printer can get expensive because it does what?",
+    "correct_answer":"use paper",
+    "triples":[
+        [
+            "print",
+            "paper",
+            "related to",
+            "quality:0, usefulness:0"
+        ],
+        [
+            "print",
+            "use",
+            "related to",
+            "quality:0, usefulness:0"
+        ],
+        [
+            "print",
+            "use paper",
+            "requires",
+            "quality:0, usefulness:0"
+        ],
+        [
+            "expensive",
+            "paper",
+            "is distinct from",
+            "quality:0, usefulness:0"
+        ],
+        [
+            "get",
+            "paper",
+            "has context",
+            "quality:0, usefulness:0"
+        ],
+        [
+            "paper",
+            "expensive",
+            "has property",
+            "quality:0, usefulness:0"
+        ]
+    ]
+}
+{
+    "index":304,
+    "question":"When you travel you should what in case of unexpected costs?",
+    "correct_answer":"have money",
+    "triples":[
+        [
+            "travel",
+            "have money",
+            "has sub event",
+            "quality:0, usefulness:0"
+        ],
+        [
+            "case",
+            "money",
+            "related to",
+            "quality:0, usefulness:0"
+        ],
+        [
+            "cost",
+            "money",
+            "related to",
+            "quality:0, usefulness:0"
+        ],
+        [
+            "travel",
+            "money",
+            "requires",
+            "quality:0, usefulness:0"
+        ]
+    ]
+}
+{
+    "index":308,
+    "question":"Where can you buy jeans at one of may indoor merchants?",
+    "correct_answer":"shopping mall",
+    "triples":[
+        [
+            "jeans",
+            "mall",
+            "at location",
+            "quality:0, usefulness:0"
+        ],
+        [
+            "jeans",
+            "shopping mall",
+            "at location",
+            "quality:0, usefulness:0"
+        ],
+        [
+            "merchant",
+            "mall",
+            "at location",
+            "quality:0, usefulness:0"
+        ],
+        [
+            "buy",
+            "shopping",
+            "related to",
+            "quality:0, usefulness:0"
+        ]
+    ]
+}
+{
+    "index":354,
+    "question":"Where can you buy a clock, clothing and wrenches?",
+    "correct_answer":"department store",
+    "triples":[
+        [
+            "buy",
+            "store",
+            "at location",
+            "quality:0, usefulness:0"
+        ],
+        [
+            "clock",
+            "department store",
+            "at location",
+            "quality:0, usefulness:0"
+        ],
+        [
+            "clock",
+            "store",
+            "at location",
+            "quality:0, usefulness:0"
+        ],
+        [
+            "clothing",
+            "department store",
+            "at location",
+            "quality:0, usefulness:0"
+        ],
+        [
+            "clothing",
+            "store",
+            "at location",
+            "quality:0, usefulness:0"
+        ],
+        [
+            "clothing",
+            "department",
+            "related to",
+            "quality:0, usefulness:0"
+        ]
+    ]
+}
+{
+    "index":362,
+    "question":"Where would you find a toy soldier that is being played with?",
+    "correct_answer":"child's hand",
+    "triples":[
+        [
+            "play",
+            "child",
+            "has sub event",
+            "quality:0, usefulness:0"
+        ],
+        [
+            "toy",
+            "child",
+            "related to",
+            "quality:0, usefulness:0"
+        ],
+        [
+            "child",
+            "toy soldier",
+            "is located at",
+            "quality:0, usefulness:0"
+        ]
+    ]
+}
+{
+    "index":368,
+    "question":"Surprising an angry person could lead to what?",
+    "correct_answer":"fight",
+    "triples":[
+        [
+            "angry",
+            "fight",
+            "related to",
+            "quality:0, usefulness:0"
+        ],
+        [
+            "angry person",
+            "fight",
+            "is capable of",
+            "quality:0, usefulness:0"
+        ],
+        [
+            "fight",
+            "angry person",
+            "is motivated by",
+            "quality:0, usefulness:0"
+        ],
+        [
+            "fight",
+            "person",
+            "is type of",
+            "quality:0, usefulness:0"
+        ],
+        [
+            "person",
+            "fight",
+            "wants",
+            "quality:0, usefulness:0"
+        ],
+        [
+            "lead",
+            "fight",
+            "is way of",
+            "quality:0, usefulness:0"
+        ],
+        [
+            "fight",
+            "surprise",
+            "is distinct from",
+            "quality:0, usefulness:0"
+        ],
+        [
+            "surprise",
+            "fight",
+            "requires",
+            "quality:0, usefulness:0"
+        ],
+        [
+            "fight",
+            "lead",
+            "is way of",
+            "quality:0, usefulness:0"
+        ]
+    ]
+}
+{
+    "index":371,
+    "question":"James slamed into someone playing football, and not for the first time.  He was concerned about the consequences of many what?",
+    "correct_answer":"head injuries",
+    "triples":[
+        [
+            "playing",
+            "injuries",
+            "causes",
+            "quality:0, usefulness:0"
+        ],
+        [
+            "playing",
+            "injury",
+            "causes",
+            "quality:0, usefulness:0"
+        ],
+        [
+            "playing football",
+            "head injuries",
+            "causes",
+            "quality:0, usefulness:0"
+        ],
+        [
+            "playing football",
+            "injuries",
+            "causes",
+            "quality:0, usefulness:0"
+        ],
+        [
+            "playing football",
+            "injury",
+            "causes",
+            "quality:0, usefulness:0"
+        ],
+        [
+            "consequence",
+            "injury",
+            "related to",
+            "quality:0, usefulness:0"
+        ],
+        [
+            "first",
+            "head",
+            "related to",
+            "quality:0, usefulness:0"
+        ]
+    ]
+}
+{
+    "index":377,
+    "question":"If a reception is held with hotel guests walking by, what is the likely venue?",
+    "correct_answer":"lobby",
+    "triples":[
+        [
+            "hotel",
+            "lobby",
+            "part of",
+            "quality:0, usefulness:0"
+        ],
+        [
+            "reception",
+            "lobby",
+            "related to",
+            "quality:0, usefulness:0"
+        ],
+        [
+            "walking",
+            "lobby",
+            "is located at",
+            "quality:0, usefulness:0"
+        ]
+    ]
+}
+{
+    "index":421,
+    "question":"Where is the large area location of the empire state building?",
+    "correct_answer":"new york city",
+    "triples":[
+        [
+            "empire state building",
+            "new york city",
+            "at location",
+            "quality:0, usefulness:0"
+        ],
+        [
+            "state",
+            "city",
+            "antonym",
+            "quality:0, usefulness:0"
+        ],
+        [
+            "empire state building",
+            "new york",
+            "part of",
+            "quality:0, usefulness:0"
+        ],
+        [
+            "state",
+            "new york",
+            "is a",
+            "quality:0, usefulness:0"
+        ],
+        [
+            "area",
+            "city",
+            "related to",
+            "quality:0, usefulness:0"
+        ],
+        [
+            "building",
+            "city",
+            "related to",
+            "quality:0, usefulness:0"
+        ],
+        [
+            "empire",
+            "new",
+            "related to",
+            "quality:0, usefulness:0"
+        ],
+        [
+            "empire",
+            "new york",
+            "related to",
+            "quality:0, usefulness:0"
+        ],
+        [
+            "empire",
+            "york",
+            "related to",
+            "quality:0, usefulness:0"
+        ],
+        [
+            "empire state",
+            "new york",
+            "related to",
+            "quality:0, usefulness:0"
+        ],
+        [
+            "large",
+            "city",
+            "related to",
+            "quality:0, usefulness:0"
+        ],
+        [
+            "large area",
+            "city",
+            "related to",
+            "quality:0, usefulness:0"
+        ],
+        [
+            "location",
+            "city",
+            "related to",
+            "quality:0, usefulness:0"
+        ],
+        [
+            "state",
+            "new",
+            "related to",
+            "quality:0, usefulness:0"
+        ]
+    ]
+}
+{
+    "index":493,
+    "question":"Where would you keep a rug near your front door?",
+    "correct_answer":"living room",
+    "triples":[
+        [
+            "rug",
+            "living room",
+            "at location",
+            "quality:0, usefulness:0"
+        ],
+        [
+            "door",
+            "room",
+            "related to",
+            "quality:0, usefulness:0"
+        ],
+        [
+            "keep",
+            "room",
+            "related to",
+            "quality:0, usefulness:0"
+        ]
+    ]
+}
+{
+    "index":535,
+    "question":"Where is a handy place to store a steel pen in your office?",
+    "correct_answer":"desk drawer",
+    "triples":[
+        [
+            "office",
+            "desk drawer",
+            "at location",
+            "quality:0, usefulness:0"
+        ],
+        [
+            "pen",
+            "desk drawer",
+            "at location",
+            "quality:0, usefulness:0"
+        ],
+        [
+            "pen",
+            "drawer",
+            "at location",
+            "quality:0, usefulness:0"
+        ],
+        [
+            "steel pen",
+            "desk",
+            "at location",
+            "quality:0, usefulness:0"
+        ],
+        [
+            "steel pen",
+            "desk drawer",
+            "at location",
+            "quality:0, usefulness:0"
+        ],
+        [
+            "place",
+            "desk",
+            "is a",
+            "quality:0, usefulness:0"
+        ],
+        [
+            "office",
+            "desk",
+            "related to",
+            "quality:0, usefulness:0"
+        ],
+        [
+            "store",
+            "drawer",
+            "used for",
+            "quality:0, usefulness:0"
+        ]
+    ]
+}
+{
+    "index":573,
+    "question":"Where can you store you spare linens near your socks?",
+    "correct_answer":"dresser drawers",
+    "triples":[
+        [
+            "linen",
+            "dresser drawers",
+            "at location",
+            "quality:0, usefulness:0"
+        ],
+        [
+            "sock",
+            "drawer",
+            "at location",
+            "quality:0, usefulness:0"
+        ],
+        [
+            "sock",
+            "drawers",
+            "related to",
+            "quality:0, usefulness:0"
+        ],
+        [
+            "store",
+            "dresser",
+            "related to",
+            "quality:0, usefulness:0"
+        ],
+        [
+            "socks",
+            "drawer",
+            "used for",
+            "quality:0, usefulness:0"
+        ],
+        [
+            "store",
+            "drawer",
+            "used for",
+            "quality:0, usefulness:0"
+        ]
+    ]
+}
+{
+    "index":591,
+    "question":"Where would you hear a violin along side many string and wind instruments?",
+    "correct_answer":"orchestra",
+    "triples":[
+        [
+            "instrument",
+            "orchestra",
+            "related to",
+            "quality:0, usefulness:0"
+        ],
+        [
+            "instruments",
+            "orchestra",
+            "related to",
+            "quality:0, usefulness:0"
+        ],
+        [
+            "violin",
+            "orchestra",
+            "related to",
+            "quality:0, usefulness:0"
+        ],
+        [
+            "wind instrument",
+            "orchestra",
+            "used for",
+            "quality:0, usefulness:0"
+        ],
+        [
+            "wind instruments",
+            "orchestra",
+            "is located at",
+            "quality:0, usefulness:0"
+        ],
+        [
+            "string",
+            "orchestra",
+            "is located at",
+            "quality:0, usefulness:0"
+        ]
+    ]
+}
+{
+    "index":605,
+    "question":"When you wipe you feet on the door mat and walk through the door where do you enter?",
+    "correct_answer":"living room",
+    "triples":[
+        [
+            "mat",
+            "living room",
+            "at location",
+            "quality:0, usefulness:0"
+        ],
+        [
+            "door",
+            "room",
+            "related to",
+            "quality:0, usefulness:0"
+        ]
+    ]
+}
+{
+    "index":648,
+    "question":"Where would you find an office worker gossiping with their colleagues?",
+    "correct_answer":"water cooler",
+    "triples":[
+        [
+            "gossip",
+            "water cooler",
+            "related to",
+            "quality:0, usefulness:0"
+        ],
+        [
+            "office",
+            "cooler",
+            "related to",
+            "quality:0, usefulness:0"
+        ],
+        [
+            "office",
+            "water",
+            "related to",
+            "quality:0, usefulness:0"
+        ],
+        [
+            "office",
+            "water cooler",
+            "related to",
+            "quality:0, usefulness:0"
+        ],
+        [
+            "office worker",
+            "water cooler",
+            "is located at",
+            "quality:0, usefulness:0"
+        ],
+        [
+            "worker",
+            "water cooler",
+            "is located at",
+            "quality:0, usefulness:0"
+        ],
+        [
+            "gossiping",
+            "water cooler",
+            "is located at",
+            "quality:0, usefulness:0"
+        ]
+    ]
+}
+{
+    "index":750,
+    "question":"Where do you keep your pizza slice before you eat it?",
+    "correct_answer":"plate",
+    "triples":[
+        [
+            "eat",
+            "plate",
+            "related to",
+            "quality:0, usefulness:0"
+        ],
+        [
+            "pizza",
+            "plate",
+            "related to",
+            "quality:0, usefulness:0"
+        ],
+        [
+            "slice",
+            "plate",
+            "related to",
+            "quality:0, usefulness:0"
+        ],
+        [
+            "pizza slice",
+            "plate",
+            "is located at",
+            "quality:0, usefulness:0"
+        ],
+        [
+            "plate",
+            "pizza slice",
+            "is type of",
+            "quality:0, usefulness:0"
+        ]
+    ]
+}
+{
+    "index":1103,
+    "question":"When you do something and have fun, its something you?",
+    "correct_answer":"do enjoy",
+    "triples":[
+        [
+            "fun",
+            "enjoy",
+            "related to",
+            "quality:0, usefulness:0"
+        ],
+        [
+            "do enjoy",
+            "fun",
+            "has property",
+            "quality:0, usefulness:0"
+        ],
+        [
+            "fun",
+            "do enjoy",
+            "requires",
+            "quality:0, usefulness:0"
+        ]
+    ]
+}
