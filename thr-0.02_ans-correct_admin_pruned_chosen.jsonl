@@ -1,9 +1,9 @@
-{
+[{
     "index":7,
     "thr/gen/ext/all":"4/3/1/26",
     "question":"In what Spanish speaking North American country can you get a great cup of coffee?",
     "correct_answer":"mexico",
-    "Base/Our":"(0/0,0)|(3/4,1.67)",
+    "Base/Our":"(00/01,0.00)|(03/04,1.67)",
     "prune_rate":"15.38%",
     "threshold_hybrid":[
         [
@@ -13,7 +13,7 @@
             0.39,
             "extracted",
             "(0*0=0)"
-        ],0
+        ],
         [
             "spanish spoken",
             "mexico",
@@ -21,7 +21,7 @@
             0.02,
             "generated",
             "(1*2=2)"
-        ],1
+        ],
         [
             "coffee",
             "mexico",
@@ -29,7 +29,7 @@
             0.02,
             "generated",
             "(1*2=2)"
-        ],2
+        ],
         [
             "spanish",
             "mexico",
@@ -37,7 +37,7 @@
             0.02,
             "generated",
             "(1*1=1)"
-        ]3
+        ]
     ],
     "all_extracted":[
         [
@@ -49,13 +49,13 @@
             "(0*0=0)"
         ]
     ]
-}1
+},
 {
     "index":9,
     "thr/gen/ext/all":"4/1/3/18",
     "question":"Reading newspaper one of many ways to practice your what?",
     "correct_answer":"literacy",
-    "Base/Our":"(2/3,1.33)|(3/4,1.5)",
+    "Base/Our":"(02/03,1.33)|(03/04,1.50)",
     "prune_rate":"22.22%",
     "threshold_hybrid":[
         [
@@ -73,7 +73,7 @@
             0.09,
             "extracted",
             "(1*2=2)"
-        ],1
+        ],
         [
             "reading",
             "literacy",
@@ -81,7 +81,7 @@
             0.09,
             "extracted",
             "(1*2=2)"
-        ],2
+        ],
         [
             "read newspaper",
             "literacy",
@@ -89,7 +89,7 @@
             0.02,
             "generated",
             "(1*2=2)"
-        ]3
+        ]
     ],
     "all_extracted":[
         [
@@ -117,13 +117,13 @@
             "(0*0=0)"
         ]
     ]
-}2
+},
 {
     "index":16,
     "thr/gen/ext/all":"12/12/0/12",
     "question":"What are you waiting alongside with when you're in a reception area?",
     "correct_answer":"people",
-    "Base/Our":"(0/0,0)|(3/12,0.25)",
+    "Base/Our":"(00/00,0.00)|(03/12,0.25)",
     "prune_rate":"100.00%",
     "threshold_hybrid":[
         [
@@ -133,7 +133,7 @@
             0.12,
             "generated",
             "(1*2=2)"
-        ],1
+        ],
         [
             "people",
             "reception",
@@ -141,7 +141,7 @@
             0.1,
             "generated",
             "(0*0=0)"
-        ],1
+        ],
         [
             "people",
             "area",
@@ -149,7 +149,7 @@
             0.1,
             "generated",
             "(1*1=1)"
-        ],2
+        ],
         [
             "area",
             "people",
@@ -213,7 +213,7 @@
             0.06,
             "generated",
             "(1*1=1)"
-        ],3
+        ],
         [
             "people",
             "alongside",
@@ -224,13 +224,13 @@
         ]
     ],
     "all_extracted":[]
-}3
+},
 {
     "index":49,
     "thr/gen/ext/all":"1/0/3/60",
     "question":"Because John was first violin, he had to bring something important to work ever day. What did he need to bring to work?",
     "correct_answer":"violin case",
-    "Base/Our":"(2/3,1)|(1/1,2)",
+    "Base/Our":"(02/03,1.00)|(01/01,2.00)",
     "prune_rate":"1.67%",
     "threshold_hybrid":[
         [
@@ -240,7 +240,7 @@
             0.65,
             "extracted",
             "(1*2=2)"
-        ]1
+        ]
     ],
     "all_extracted":[
         [
@@ -250,7 +250,7 @@
             0.92,
             "extracted",
             "(0*0=0)"
-        ],1
+        ],
         [
             "first violin",
             "violin",
@@ -258,7 +258,7 @@
             0.02,
             "extracted",
             "(1*1=1)"
-        ],2
+        ],
         [
             "work",
             "case",
@@ -266,15 +266,15 @@
             0.02,
             "extracted",
             "(0*0=0)"
-        ]2
+        ]
     ]
-}4
+},
 {
     "index":50,
     "thr/gen/ext/all":"2/0/4/12",
     "question":"What is a place that usually does not have an elevator and that sometimes has a telephone book?",
     "correct_answer":"house",
-    "Base/Our":"(2/4,0.75)|(2/2,1.5)",
+    "Base/Our":"(02/04,0.75)|(02/02,1.50)",
     "prune_rate":"16.67%",
     "threshold_hybrid":[
         [
@@ -284,7 +284,7 @@
             0.35,
             "extracted",
             "(1*1=1)"
-        ],1
+        ],
         [
             "telephone book",
             "house",
@@ -292,7 +292,7 @@
             0.35,
             "extracted",
             "(1*2=2)"
-        ]2
+        ]
     ],
     "all_extracted":[
         [
@@ -302,7 +302,7 @@
             0.48,
             "extracted",
             "(0*0=0)"
-        ],1
+        ],
         [
             "telephone book",
             "house",
@@ -310,7 +310,7 @@
             0.48,
             "extracted",
             "(0*0=0)"
-        ],2
+        ],
         [
             "place",
             "house",
@@ -318,7 +318,7 @@
             0.02,
             "extracted",
             "(0*0=0)"
-        ],2
+        ],
         [
             "usually",
             "house",
@@ -326,15 +326,15 @@
             0.01,
             "extracted",
             "(0*0=0)"
-        ]2
+        ]
     ]
-}5
+},
 {
     "index":52,
     "thr/gen/ext/all":"4/0/6/36",
     "question":"Where can a human find clothes that aren't pants?",
     "correct_answer":"dress shop",
-    "Base/Our":"(5/6,1)|(4/4,1.25)",
+    "Base/Our":"(05/06,1.00)|(04/04,1.25)",
     "prune_rate":"11.11%",
     "threshold_hybrid":[
         [
@@ -344,7 +344,7 @@
             0.19,
             "extracted",
             "(1*1=1)"
-        ],1
+        ],
         [
             "human",
             "dress shop",
@@ -352,7 +352,7 @@
             0.19,
             "extracted",
             "(1*1=1)"
-        ],2
+        ],
         [
             "human",
             "shop",
@@ -360,7 +360,7 @@
             0.19,
             "extracted",
             "(1*1=1)"
-        ],3
+        ],
         [
             "pants",
             "dress",
@@ -368,7 +368,7 @@
             0.15,
             "extracted",
             "(1*2=2)"
-        ]4
+        ]
     ],
     "all_extracted":[
         [
@@ -378,7 +378,7 @@
             0.25,
             "extracted",
             "(0*0=0)"
-        ],1
+        ],
         [
             "human",
             "dress shop",
@@ -386,7 +386,7 @@
             0.25,
             "extracted",
             "(0*0=0)"
-        ],2
+        ],
         [
             "human",
             "shop",
@@ -394,7 +394,7 @@
             0.25,
             "extracted",
             "(0*0=0)"
-        ],3
+        ],
         [
             "pants",
             "dress",
@@ -402,7 +402,7 @@
             0.17,
             "extracted",
             "(0*0=0)"
-        ],4
+        ],
         [
             "clothe",
             "dress",
@@ -410,7 +410,7 @@
             0.02,
             "extracted",
             "(1*1=1)"
-        ],5
+        ],
         [
             "clothes",
             "dress",
@@ -418,15 +418,15 @@
             0.02,
             "extracted",
             "(0*0=0)"
-        ]5
+        ]
     ]
-}6
+},
 {
     "index":66,
     "thr/gen/ext/all":"3/0/5/36",
     "question":"What is a place that has a bench nestled in trees?",
     "correct_answer":"state park",
-    "Base/Our":"(4/5,0.8)|(3/3,1)",
+    "Base/Our":"(04/05,0.80)|(03/03,1.00)",
     "prune_rate":"8.33%",
     "threshold_hybrid":[
         [
@@ -436,7 +436,7 @@
             0.23,
             "extracted",
             "(1*1=1)"
-        ],1
+        ],
         [
             "tree",
             "state park",
@@ -444,7 +444,7 @@
             0.23,
             "extracted",
             "(1*1=1)"
-        ],2
+        ],
         [
             "trees",
             "state park",
@@ -452,7 +452,7 @@
             0.23,
             "extracted",
             "(1*1=1)"
-        ]3
+        ]
     ],
     "all_extracted":[
         [
@@ -462,7 +462,7 @@
             0.31,
             "extracted",
             "(0*0=0)"
-        ],1
+        ],
         [
             "tree",
             "state park",
@@ -470,7 +470,7 @@
             0.31,
             "extracted",
             "(0*0=0)"
-        ],2
+        ],
         [
             "trees",
             "state park",
@@ -478,7 +478,7 @@
             0.31,
             "extracted",
             "(0*0=0)"
-        ],3
+        ],
         [
             "bench",
             "park",
@@ -486,7 +486,7 @@
             0.02,
             "extracted",
             "(1*1=1)"
-        ],4
+        ],
         [
             "place",
             "park",
@@ -494,15 +494,15 @@
             0.02,
             "extracted",
             "(1*0=0)"
-        ]4
+        ]
     ]
-}7
+},
 {
     "index":69,
     "thr/gen/ext/all":"1/0/2/14",
     "question":"Where would you find a single shower curtain being used?",
     "correct_answer":"bathtub",
-    "Base/Our":"(2/2,1.5)|(1/1,2)",
+    "Base/Our":"(02/02,1.50)|(01/01,2.00)",
     "prune_rate":"7.14%",
     "threshold_hybrid":[
         [
@@ -512,7 +512,7 @@
             0.73,
             "extracted",
             "(1*2=2)"
-        ]1
+        ]
     ],
     "all_extracted":[
         [
@@ -522,7 +522,7 @@
             0.97,
             "extracted",
             "(0*0=0)"
-        ],1
+        ],
         [
             "shower",
             "bathtub",
@@ -530,15 +530,15 @@
             0.02,
             "extracted",
             "(1*1=1)"
-        ]2
+        ]
     ]
-}8
+},
 {
     "index":108,
     "thr/gen/ext/all":"3/0/4/100",
     "question":"Seafood restaurants are used to draw tourists where?",
     "correct_answer":"coastal cities",
-    "Base/Our":"(3/4,1)|(3/3,1.33)",
+    "Base/Our":"(03/04,1.00)|(03/03,1.33)",
     "prune_rate":"3.00%",
     "threshold_hybrid":[
         [
@@ -600,13 +600,13 @@
             "(0*0=0)"
         ]
     ]
-}9
+},
 {
     "index":120,
     "thr/gen/ext/all":"4/1/3/72",
     "question":"Why would a person like to have a large house?",
     "correct_answer":"lots of space",
-    "Base/Our":"(2/3,0.67)|(3/4,1)",
+    "Base/Our":"(02/03,0.67)|(03/04,1.00)",
     "prune_rate":"5.56%",
     "threshold_hybrid":[
         [
@@ -668,13 +668,13 @@
             "(1*1=1)"
         ]
     ]
-}10
+},
 {
     "index":125,
     "thr/gen/ext/all":"2/0/4/57",
     "question":"Colorful anemone look somewhat like what object you find on window sills?",
     "correct_answer":"flower bed",
-    "Base/Our":"(3/4,1)|(2/2,1.5)",
+    "Base/Our":"(03/04,1.00)|(02/02,1.50)",
     "prune_rate":"3.51%",
     "threshold_hybrid":[
         [
@@ -728,13 +728,13 @@
             "(0*0=0)"
         ]
     ]
-}11
+},
 {
     "index":138,
     "thr/gen/ext/all":"16/15/1/30",
     "question":"What does someone typically feel when applying for a job?",
     "correct_answer":"anxiety and fear",
-    "Base/Our":"(1/1,1)|(12/16,1.44)",
+    "Base/Our":"(01/01,1.00)|(12/16,1.44)",
     "prune_rate":"53.33%",
     "threshold_hybrid":[
         [
@@ -876,13 +876,13 @@
             "(1*1=1)"
         ]
     ]
-}12
+},
 {
     "index":246,
     "thr/gen/ext/all":"3/1/2/6",
     "question":"What is a treat that you dog will enjoy?",
     "correct_answer":"bone",
-    "Base/Our":"(2/2,1.5)|(3/3,1.67)",
+    "Base/Our":"(02/02,1.50)|(03/03,1.67)",
     "prune_rate":"50.00%",
     "threshold_hybrid":[
         [
@@ -928,13 +928,13 @@
             "(1*1=1)"
         ]
     ]
-}13
+},
 {
     "index":276,
     "thr/gen/ext/all":"6/4/2/18",
     "question":"Printing on a printer can get expensive because it does what?",
     "correct_answer":"use paper",
-    "Base/Our":"(1/2,0.5)|(5/6,0.83)",
+    "Base/Our":"(01/02,0.50)|(05/06,0.83)",
     "prune_rate":"33.33%",
     "threshold_hybrid":[
         [
@@ -1004,13 +1004,13 @@
             "(0*0=0)"
         ]
     ]
-}14
+},
 {
     "index":304,
     "thr/gen/ext/all":"4/1/3/20",
     "question":"When you travel you should what in case of unexpected costs?",
     "correct_answer":"have money",
-    "Base/Our":"(1/3,0.67)|(2/4,01)",
+    "Base/Our":"(01/03,0.67)|(02/04,1.00)",
     "prune_rate":"20.00%",
     "threshold_hybrid":[
         [
@@ -1072,13 +1072,13 @@
             "(0*0=0)"
         ]
     ]
-}15
+},
 {
     "index":308,
     "thr/gen/ext/all":"3/0/4/42",
     "question":"Where can you buy jeans at one of may indoor merchants?",
     "correct_answer":"shopping mall",
-    "Base/Our":"(4/4,1.5)|(3/3,1.67)",
+    "Base/Our":"(04/04,1.50)|(03/03,1.67)",
     "prune_rate":"7.14%",
     "threshold_hybrid":[
         [
@@ -1140,16 +1140,16 @@
             "(1*1=1)"
         ]
     ]
-}16
+},
 {
     "index":354,
     "thr/gen/ext/all":"5/0/6/27",
     "question":"Where can you buy a clock, clothing and wrenches?",
     "correct_answer":"department store",
-    "Base/Our":"(5/6,1.33)|(5/5,1.6)",
+    "Base/Our":"(05/06,1.33)|(05/05,1.60)",
     "prune_rate":"18.52%",
     "threshold_hybrid":[
-[
+        [
             "buy",
             "store",
             "at location",
@@ -1188,7 +1188,7 @@
             0.2,
             "extracted",
             "(1*1=1)"
-        ],
+        ]
     ],
     "all_extracted":[
         [
@@ -1240,13 +1240,13 @@
             "(0*0=0)"
         ]
     ]
-}17
+},
 {
     "index":362,
     "thr/gen/ext/all":"3/1/2/24",
     "question":"Where would you find a toy soldier that is being played with?",
     "correct_answer":"child's hand",
-    "Base/Our":"(1/2,0.5)|(2/3,0.67)",
+    "Base/Our":"(01/02,0.50)|(02/03,0.67)",
     "prune_rate":"12.50%",
     "threshold_hybrid":[
         [
@@ -1292,13 +1292,13 @@
             "(1*1=1)"
         ]
     ]
-}18
+},
 {
     "index":368,
     "thr/gen/ext/all":"9/8/1/10",
     "question":"Surprising an angry person could lead to what?",
     "correct_answer":"fight",
-    "Base/Our":"(1/1,2)|(4/9,0.78)",
+    "Base/Our":"(01/01,2.00)|(04/09,0.78)",
     "prune_rate":"90.00%",
     "threshold_hybrid":[
         [
@@ -1384,13 +1384,13 @@
             "(1*2=2)"
         ]
     ]
-}19
+},
 {
     "index":371,
     "thr/gen/ext/all":"5/0/7/104",
     "question":"James slamed into someone playing football, and not for the first time.  He was concerned about the consequences of many what?",
     "correct_answer":"head injuries",
-    "Base/Our":"(5/5,1.2)|(5/7,0.86)",
+    "Base/Our":"(05/05,1.20)|(05/07,0.86)",
     "prune_rate":"4.81%",
     "threshold_hybrid":[
         [
@@ -1492,13 +1492,13 @@
             "(0*0=0)"
         ]
     ]
-}20
+},
 {
     "index":377,
     "thr/gen/ext/all":"3/1/2/22",
     "question":"If a reception is held with hotel guests walking by, what is the likely venue?",
     "correct_answer":"lobby",
-    "Base/Our":"(1/2,0.5)|(2/3,1)",
+    "Base/Our":"(01/02,0.50)|(02/03,1.00)",
     "prune_rate":"13.64%",
     "threshold_hybrid":[
         [
@@ -1544,14 +1544,13 @@
             "(1*1=1)"
         ]
     ]
-}21
-
+},
 {
     "index":421,
     "thr/gen/ext/all":"4/0/14/100",
     "question":"Where is the large area location of the empire state building?",
     "correct_answer":"new york city",
-    "Base/Our":"(9/14,0.5)|(2/4,1)",
+    "Base/Our":"(09/14,0.50)|(02/04,1.00)",
     "prune_rate":"4.00%",
     "threshold_hybrid":[
 [
@@ -1585,7 +1584,7 @@
             0.03,
             "extracted",
             "(0*0=0)"
-        ],
+        ]
     ],
     "all_extracted":[
         [
@@ -1701,13 +1700,13 @@
             "(0*0=0)"
         ]
     ]
-}22
+},
 {
     "index":493,
     "thr/gen/ext/all":"1/0/3/24",
     "question":"Where would you keep a rug near your front door?",
     "correct_answer":"living room",
-    "Base/Our":"(2/3,1)|(1/1,2)",
+    "Base/Our":"(02/03,1.00)|(01/01,2.00)",
     "prune_rate":"4.17%",
     "threshold_hybrid":[
         [
@@ -1745,13 +1744,13 @@
             "(0*0=0)"
         ]
     ]
-}23
+},
 {
     "index":535,
     "thr/gen/ext/all":"5/0/8/42",
     "question":"Where is a handy place to store a steel pen in your office?",
     "correct_answer":"desk drawer",
-    "Base/Our":"(5/8,0.88)|(4/5,1.2)",
+    "Base/Our":"(05/08,0.88)|(04/05,1.20)",
     "prune_rate":"11.90%",
     "threshold_hybrid":[
 [
@@ -1861,13 +1860,13 @@
             "(0*0=0)"
         ]
     ]
-}24
+},
 {
     "index":573,
     "thr/gen/ext/all":"2/0/6/66",
     "question":"Where can you store you spare linens near your socks?",
     "correct_answer":"dresser drawers",
-    "Base/Our":"(1/6,0.33)|(1/2,1)",
+    "Base/Our":"(01/06,0.33)|(01/02,1.00)",
     "prune_rate":"3.03%",
     "threshold_hybrid":[
         [
@@ -1937,13 +1936,13 @@
             "(0*0=0)"
         ]
     ]
-}25
+},
 {
     "index":591,
     "thr/gen/ext/all":"6/2/4/26",
     "question":"Where would you hear a violin along side many string and wind instruments?",
     "correct_answer":"orchestra",
-    "Base/Our":"(3/4,1.5)|(5/6,1.67)",
+    "Base/Our":"(03/04,1.50)|(05/06,1.67)",
     "prune_rate":"23.08%",
     "threshold_hybrid":[
         [
@@ -2029,13 +2028,13 @@
             "(0*0=0)"
         ]
     ]
-}26
+},
 {
     "index":605,
     "thr/gen/ext/all":"1/0/2/32",
     "question":"When you wipe you feet on the door mat and walk through the door where do you enter?",
     "correct_answer":"living room",
-    "Base/Our":"(2/2,1.5)|(1/1,2)",
+    "Base/Our":"(02/02,1.50)|(01/01,2.00)",
     "prune_rate":"3.12%",
     "threshold_hybrid":[
         [
@@ -2065,13 +2064,13 @@
             "(1*1=1)"
         ]
     ]
-}27
+},
 {
     "index":648,
     "thr/gen/ext/all":"7/3/4/47",
     "question":"Where would you find an office worker gossiping with their colleagues?",
     "correct_answer":"water cooler",
-    "Base/Our":"(1/4,0.5)|(4/7,0.86)",
+    "Base/Our":"(01/04,0.50)|(04/07,0.86)",
     "prune_rate":"14.89%",
     "threshold_hybrid":[
         [
@@ -2165,13 +2164,13 @@
             "(0*0=0)"
         ]
     ]
-}28
+},
 {
     "index":750,
     "thr/gen/ext/all":"5/2/3/10",
     "question":"Where do you keep your pizza slice before you eat it?",
     "correct_answer":"plate",
-    "Base/Our":"(2/3,1)|(3/5,1)",
+    "Base/Our":"(02/03,1.00)|(03/05,1.00)",
     "prune_rate":"50.00%",
     "threshold_hybrid":[
         [
@@ -2241,13 +2240,13 @@
             "(0*0=0)"
         ]
     ]
-}29
+},
 {
     "index":1103,
     "thr/gen/ext/all":"3/2/1/4",
     "question":"When you do something and have fun, its something you?",
     "correct_answer":"do enjoy",
-    "Base/Our":"(0/0,0)|(0/0,0)",
+    "Base/Our":"(01/01,2.00)|(02/03,1.33)",
     "prune_rate":"75.00%",
     "threshold_hybrid":[
         [
@@ -2256,7 +2255,7 @@
             "related to",
             0.55,
             "extracted",
-            "(0*0=0)"
+            "(1*2=2)"
         ],
         [
             "do enjoy",
@@ -2264,7 +2263,7 @@
             "has property",
             0.04,
             "generated",
-            "(0*0=0)"
+            "(1*2=2)"
         ],
         [
             "fun",
@@ -2285,4 +2284,4 @@
             "(0*0=0)"
         ]
     ]
-}30
+}]
